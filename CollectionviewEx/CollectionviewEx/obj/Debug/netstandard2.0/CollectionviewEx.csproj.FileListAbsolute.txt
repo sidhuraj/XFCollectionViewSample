@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\bin\Debug\netstandard2.0\CollectionviewEx.deps.json
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\bin\Debug\netstandard2.0\CollectionviewEx.dll
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\bin\Debug\netstandard2.0\ref\CollectionviewEx.dll
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\bin\Debug\netstandard2.0\CollectionviewEx.pdb
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\CollectionviewEx.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\CollectionviewEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\CollectionviewEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\CollectionviewEx.dll
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\ref\CollectionviewEx.dll
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\CollectionviewEx.pdb
+C:\Users\santosh\source\repos\CollectionviewEx\CollectionviewEx\CollectionviewEx\obj\Debug\netstandard2.0\CourosalViewPage.xaml.g.cs
